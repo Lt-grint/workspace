@@ -1,0 +1,48 @@
+.container .banner {
+	width: 100%;
+	height: 208px;
+}
+/****************content样式开始**********************/
+.content {
+	margin: 0 auto;
+	width: 1000px;
+	height: 622px;
+}
+
+/****************cooperate样式开始*********/
+.content .cooperate{
+	float: left;
+	margin-left: 31px;
+    margin-top: 23px;
+    width: 815px;
+}
+.content .cooperate .main_nav ul {
+	height: 21px;
+}
+.content .cooperate .main_nav ul li{
+	float: left;
+}
+.content .cooperate .main_nav ul .return{
+	background: url(../img/返回.gif) 0px 2px no-repeat;
+	text-indent: 20px;
+}
+.content .cooperate .main_nav ul li a span{
+	margin:0 15px;
+}
+.content .cooperate .coop_item{
+    margin:15px 0 15px 10px;
+}
+.content .cooperate .coop_item  h2{
+	font-size: 14px;
+	margin-bottom: 4px;
+}
+.content .cooperate .coop_item h3{
+	font-size: 12px;
+    line-height: 24px;
+}
+.content .cooperate .coop_item  p{
+	font-size: 12px;
+    line-height: 24px;
+}
+/****************business样式结束******************/
+/****************content样式结束**********************/

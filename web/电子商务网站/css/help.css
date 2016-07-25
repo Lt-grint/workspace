@@ -1,0 +1,117 @@
+.container .banner {
+	width: 100%;
+	height: 208px;
+}
+/****************content样式开始**********************/
+.content {
+	margin: 0 auto;
+	width: 1000px;
+	height:500px;
+}
+/****************help样式开始*********/
+.content .help{
+	float: left;
+	margin-left: 31px;
+    margin-top: 20px;
+    width: 815px;
+}
+.content .help .main_nav ul {
+	height: 21px;
+	margin-bottom: 20px;
+}
+.content .help .main_nav ul li{
+	float: left;
+}
+.content .help .main_nav ul .return{
+	background: url(../img/返回.gif) 0px 2px no-repeat;
+	text-indent: 20px;
+}
+.content .help .main_nav ul li a span{
+	margin:0 15px;
+}
+.content .help .help_content {
+    height: 420px;
+}
+.content .help .help_content .question{
+	float: left;
+	width: 300px;
+}
+.content .help .help_content .question form{
+    margin-top: 15px;
+    height: 375px;
+}
+.content .help .help_content .question form label{
+   font-size: 12px;
+}
+.content .help .help_content .question form input{
+	margin-left: 36px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  	width: 227px;
+  	height: 21px;
+  	background-color: #999;
+}
+.content .help .help_content .question form textarea{
+	margin-top:10px ;
+  	background-color: #999;
+}
+.content .help .help_content .question form button{
+	margin-top: 5px;
+	border: none;
+  	width: 106px;
+  	height: 36px;
+  	background-color:#09477D ;
+  	color: #fff;
+}
+.content .help .help_content .vertical_line{
+	float: left;
+    margin: 0 25px 0 25px;;
+    width: 1px;
+    height: 420px;
+    background-color: #000;
+}
+.content .help .help_content .relation{
+	float: left;
+    width: 464px;
+}
+.content .help .help_content .relation .rela_left{
+	float: left;
+    width: 213px;
+}
+.content .help .help_content .relation .rela_left a{
+	font-family: "微软雅黑";
+	font-size: 14px;
+}
+.content .help .help_content .relation .rela_left .tel {
+	font-family: impact;
+	font-size: 30px;
+}
+.content .help .help_content .relation .rela_left .customer_sever{
+	margin-top: 50px;
+	width: 213px;
+	height: 70px;
+}
+.content .help .help_content .relation .rela_left .customer_sever ul{
+	width: 213;
+	height: 70;
+}
+.content .help .help_content .relation .rela_left .customer_sever ul li{
+	float: left;
+	width: 60px;
+	background: url(../img/QQ.gif) 0px 5px no-repeat;
+	text-indent: 25px;
+}
+.content .help .help_content .relation .rela_left .customer_sever ul li a{
+	text-indent: 12px;
+}
+.content .help .help_content .relation .rela_left .addr {
+	margin-top: 50px;	
+	font-size: 12px;
+} 
+
+.content .help .help_content .relation .rela_img{
+	float: left;
+    width: 251px;
+}
+/****************help样式结束******************/
+/****************content样式结束**********************/

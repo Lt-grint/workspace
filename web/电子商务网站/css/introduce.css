@@ -1,0 +1,49 @@
+.container .banner {
+	width: 100%;
+	height: 208px;
+}
+/****************content样式开始**********************/
+.content {
+	margin: 0 auto;
+	width: 1000px;
+	height: 667px;
+}
+/****************business样式开始*********/
+.content .business{
+	float: left;
+	margin-left: 31px;
+    margin-top: 23px;
+    width: 815px;
+    height: 644px;
+}
+.content .business .main_nav ul {
+	height: 21px;
+}
+.content .business .main_nav ul li{
+	float: left;
+}
+.content .business .main_nav ul .return{
+	background: url(../img/返回.gif) 0px 2px no-repeat;
+	text-indent: 20px;
+}
+.content .business .main_nav ul li a span{
+	margin:0 15px;
+}
+.content .business .busi_item{
+	margin: 13px auto;
+	height: 86px;
+}
+.content .business .busi_item .busi_item_word{
+	margin-left: 10px;
+}
+.content .business .busi_item .busi_item_word h2{
+    margin-left: 226px;
+}
+.content .business .busi_item .busi_item_word p{
+	margin-left: 226px;
+    margin-top: 12px;
+    width: 577px;
+	font-size: 14px;
+}
+/****************business样式结束******************/
+/****************content样式结束**********************/

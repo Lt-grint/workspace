@@ -1,0 +1,48 @@
+.container .banner {
+	width: 100%;
+	height: 208px;
+}
+/****************content样式开始**********************/
+.content {
+	margin: 0 auto;
+	width: 1000px;
+	height: 375px;
+}
+/****************partner样式开始*********/
+.content .partner{
+	float: left;
+	margin-left: 31px;
+    margin-top: 23px;
+    width: 815px;
+}
+.content .partner .main_nav ul {
+	height: 21px;
+	margin-bottom: 25px;
+}
+.content .partner .main_nav ul li{
+	float: left;
+}
+.content .partner .main_nav ul .return{
+	background: url(../img/返回.gif) 0px 2px no-repeat;
+	text-indent: 20px;
+}
+.content .partner .main_nav ul li a span{
+	margin:0 15px;
+}
+.content .partner .partner_item{
+    width: 271px;
+    height: 100px;
+}
+
+.content .partner .partner_item img{
+    width: 260px;
+    height: auto;
+}
+.content .partner .word{
+	margin-top: 25px;
+	font-size: 12px;
+    line-height: 24px;
+    text-indent: 24px;
+}
+/****************business样式结束******************/
+/****************content样式结束**********************/

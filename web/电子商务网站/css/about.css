@@ -1,0 +1,43 @@
+.container .banner {
+	width: 100%;
+	height: 208px;
+}
+/****************content样式开始**********************/
+.content {
+	margin: 0 auto;
+	width: 1000px;
+	height:500px;
+}
+/****************about样式开始*********/
+.content .about{
+	float: left;
+	margin-left: 31px;
+    margin-top: 20px;
+    width: 815px;
+}
+.content .about .main_nav ul {
+	height: 21px;
+	margin-bottom: 20px;
+}
+.content .about .main_nav ul li{
+	float: left;
+}
+.content .about .main_nav ul .return{
+	background: url(../img/返回.gif) 0px 2px no-repeat;
+	text-indent: 20px;
+}
+.content .about .main_nav ul li a span{
+	margin:0 15px;
+}
+.content .about .about_content {
+    height: 420px;
+}
+.content .about .about_content p{
+    font-size: 12px;
+    text-indent: 24px;
+}
+.content .about .about_content h2{
+    font-size: 14px;
+}
+/****************about样式结束******************/
+/****************content样式结束**********************/
